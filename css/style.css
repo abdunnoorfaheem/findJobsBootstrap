@@ -33,9 +33,123 @@ p {
 
 /* all common css End */
 /* header section style start */
+.nav-link {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+}
+
+.nav-link:hover {
+    color: #8A38EE;
+    font-weight: 600;
+}
+
+.headerBtnOne {
+    padding: 9px 25px;
+    font-family: "Poppins", sans-serif;
+}
+
+.headerBtnTwo {
+    padding: 9px 25px;
+    font-family: "Poppins", sans-serif;
+}
+
+/* .hederBtn{
+     background: url("../img/violateBg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
 /* header section style end */
-/* header section style start */
-/* header section style end */
+
+
+
+/* banner section style start */
+#bannerPart {
+    padding: 0;
+}
+
+.bannerText h4 {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    padding-top: 97px;
+    color: #212121;
+
+}
+
+.bannerText h4 i {
+    color: #FFA600;
+    font-size: 20px;
+    padding-right: 15px;
+
+}
+
+.bannerText h1 {
+    font-size: 64px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    line-height: 120%;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    color: #212121;
+
+}
+
+.bannerText p {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    max-width: 449px;
+    line-height: 120%;
+    color: #5F5270;
+    padding-bottom: 65px;
+}
+
+.bannerBtnSearch {
+    background: #F5F5F5;
+    max-width: 563px;
+    border-radius: 37px;
+}
+
+.bannerBtnSearch a {
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 10px;
+}
+
+.bannerBtnSearch a:hover {
+    background: #8A38EE;
+    color: white;
+    border-radius: 46px;
+
+}
+.createBg{
+    top: 150px;
+    left: 20px;
+}
+.designImg{
+    top: 40px;
+    right: 350px;
+}
+.mobileImg{
+    bottom: 60px;
+    right: 400px;
+}
+.jobImg{
+    left: 250px;
+    bottom: 150px;
+}
+.violateBg{
+    left: 60px;
+    bottom: 0;
+    z-index: -1;
+}
+/* banner section style end */
+
+
 /* header section style start */
 /* header section style end */
 /* header section style start */
