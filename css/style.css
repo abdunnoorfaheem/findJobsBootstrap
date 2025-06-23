@@ -126,32 +126,142 @@ p {
     border-radius: 46px;
 
 }
-.createBg{
+
+.createBg {
     top: 150px;
     left: 20px;
 }
-.designImg{
+
+.designImg {
     top: 40px;
     right: 350px;
 }
-.mobileImg{
+
+.mobileImg {
     bottom: 60px;
     right: 400px;
 }
-.jobImg{
+
+.jobImg {
     left: 250px;
     bottom: 150px;
 }
-.violateBg{
+
+.violateBg {
     left: 60px;
     bottom: 0;
     z-index: -1;
 }
+
 /* banner section style end */
 
 
-/* header section style start */
-/* header section style end */
+/* counter section style start */
+#counterPart {
+    padding: 60px 0;
+    font-family: "Poppins", sans-serif;
+}
+
+.counterLeft h4 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #212121;
+    font-family: "Poppins", sans-serif;
+}
+.counterLeft h5 {
+    padding: 60px 0;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    
+}
+.counterLeft h5 i{
+  
+    font-size: 15px;
+    padding-right: 5px;
+    
+}
+
+.avatarImg {
+    display: flex;
+    width: 192px;
+    padding: 20px 0;
+    position: relative;
+
+}
+
+.avatar {
+    width: 63px;
+    height: 63px;
+    border-radius: 50%;
+   
+    position: absolute;
+
+
+}
+
+
+
+.avatarTwo {
+    left: 40px;
+}
+
+.avatarThree {
+    left: 80px;
+}
+
+.avatarFour {
+    left: 120px;
+}
+.counterRight{
+    display: flex;
+    justify-content: space-evenly;
+}
+.counterRight .partOne{
+    background: #F5F5F5;
+    width: 175px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.counterRight .partOne h3{
+    max-width: 115px;
+    
+    font-size: 40px;
+    font-weight: 500;
+
+}
+.counterRight .partOne span{
+    color: #8A38EE;
+    
+
+}
+.counterRight .partOne h4{
+    font-size: 16px;
+    font-weight: 400;
+    color: #5F5270;
+     max-width: 115px;
+     padding-top: 10px;
+     
+
+}
+.counterRight div h3{
+    font-size: 20px;
+    font-weight: 500;
+    max-width: 198px;
+    color: #212121;
+    line-height: 27px;
+    padding-top: 10px;
+}
+.counterRight div p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #8A38EE;
+    margin-top: 15px;
+}
+
+/* counter section style end */
+
+
 /* header section style start */
 /* header section style end */
 /* header section style start */
