@@ -262,8 +262,29 @@ p {
 /* counter section style end */
 
 
-/* header section style start */
-/* header section style end */
+/* company section style start */
+#companyPart{
+    padding: 100px 0;
+    font-family: "Montserrat", sans-serif;
+}
+.companyText{
+    
+     text-align: center;
+}
+.companyText h2{
+    font-size: 48px;
+    font-weight: 500;
+   margin: 0 auto;
+    max-width: 632px;
+    line-height: 47px;
+    padding-bottom: 30px;
+}
+.companyText h2 span{
+    color: #8A38EE;
+}
+/* company section style end */
+
+
 /* header section style start */
 /* header section style end */
 /* header section style start */
