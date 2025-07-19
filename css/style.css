@@ -162,24 +162,27 @@ p {
     font-family: "Poppins", sans-serif;
 }
 
+
 .counterLeft h4 {
     font-size: 20px;
     font-weight: 500;
     color: #212121;
     font-family: "Poppins", sans-serif;
 }
+
 .counterLeft h5 {
     padding: 60px 0;
     font-size: 16px;
     font-weight: 500;
     font-family: "Poppins", sans-serif;
-    
+
 }
-.counterLeft h5 i{
-  
+
+.counterLeft h5 i {
+
     font-size: 15px;
     padding-right: 5px;
-    
+
 }
 
 .avatarImg {
@@ -194,7 +197,7 @@ p {
     width: 63px;
     height: 63px;
     border-radius: 50%;
-   
+
     position: absolute;
 
 
@@ -213,38 +216,44 @@ p {
 .avatarFour {
     left: 120px;
 }
-.counterRight{
+
+.counterRight {
     display: flex;
     justify-content: space-evenly;
 }
-.counterRight .partOne{
+
+.counterRight .partOne {
     background: #F5F5F5;
     width: 175px;
     padding: 30px;
     border-radius: 10px;
 }
-.counterRight .partOne h3{
+
+.counterRight .partOne h3 {
     max-width: 115px;
-    
+
     font-size: 40px;
     font-weight: 500;
 
 }
-.counterRight .partOne span{
+
+.counterRight .partOne span {
     color: #8A38EE;
-    
+
 
 }
-.counterRight .partOne h4{
+
+.counterRight .partOne h4 {
     font-size: 16px;
     font-weight: 400;
     color: #5F5270;
-     max-width: 115px;
-     padding-top: 10px;
-     
+    max-width: 115px;
+    padding-top: 10px;
+
 
 }
-.counterRight div h3{
+
+.counterRight div h3 {
     font-size: 20px;
     font-weight: 500;
     max-width: 198px;
@@ -252,7 +261,8 @@ p {
     line-height: 27px;
     padding-top: 10px;
 }
-.counterRight div p{
+
+.counterRight div p {
     font-size: 16px;
     font-weight: 500;
     color: #8A38EE;
@@ -263,29 +273,120 @@ p {
 
 
 /* company section style start */
-#companyPart{
+#companyPart {
     padding: 100px 0;
     font-family: "Montserrat", sans-serif;
 }
-.companyText{
-    
-     text-align: center;
+
+.companyText {
+
+    text-align: center;
 }
-.companyText h2{
+
+.companyText h2 {
     font-size: 48px;
     font-weight: 500;
-   margin: 0 auto;
+    margin: 0 auto;
     max-width: 632px;
     line-height: 47px;
     padding-bottom: 30px;
 }
-.companyText h2 span{
+
+.companyText h2 span {
     color: #8A38EE;
 }
+
 /* company section style end */
 
 
-/* header section style start */
-/* header section style end */
+/* about section style start */
+.aboutLeft h4 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #8A38EE;
+    font-family: "Poppins", sans-serif;
+}
+
+.aboutLeft h3 {
+    font-size: 48px;
+    font-weight: 500;
+    color: #212121;
+    font-family: "Montserrat", sans-serif;
+    line-height: 120%;
+    margin-top: 5px;
+    max-width: 616px;
+}
+.aboutRight h4{
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.aboutRight p{
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+    color: #5F5270;
+    max-width: 433px;
+    line-height: 120%;
+    padding-bottom: 64px;
+}
+
+.countFlex{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.count{
+    max-height: 144px;
+    max-width: 200px;
+    background: #F5F5F5;
+    padding: 30px;
+    border-radius: 30px;
+    
+}
+.count h3{
+    font-size: 40px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+}
+.count h3 span{
+ color: #8A38EE;    
+}
+.count h4{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    color: #5F5270;
+    padding-top: 10px;
+   
+}
+
+.aSmall{
+    padding-top: 50px;
+}
+.tracerBtn a{
+    color: #fff;
+    background: #8A38EE;
+    padding: 15px 20px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    margin-top: 65px;
+}
+.tracerBtn a i{
+        padding-left: 20px;
+}
+.aboutRight{
+    padding-left: 40px;
+}
+.abcRight{
+    padding-left: 40px;
+}
+
+/* about section style end */
+
 /* header section style start */
 /* header section style end */
