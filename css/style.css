@@ -620,8 +620,69 @@ p {
 /* header section style end */
 
 
-/* header section style start */
-/* header section style end */
+/* ffq section style start */
+#ffqPart{
+    padding: 50px 0;
+}
+.card{
+    padding: 24px;
+    border-radius: 25px;
+    
+}
+.card div img{
+    width: 576px;
+}
+.progressOne h4{
+    font-size: 20px;
+    font-weight: 400;
+    color: #212121;
+    font-family: "Poppins", sans-serif;
+    padding: 20px 0;
+}
+ .blueC{
+    height: 11px;
+    background: #00B2FF;
+    width: 75%;
+     border-radius: 9px;
+}
+.progressOneContent{
+  
+ /* border: 1px solid hotpink; */
+}
+.progressItem{
+    max-width: 481px;
+    height: 11px;
+    background: #F5F5F5;
+    border-radius: 9px;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid rebeccapurple; */
+    
+}
+
+.redC{
+    height: 11px;
+    background: #FF0004;
+    width: 98%;
+     border-radius: 9px;
+}
+.orangeC{
+    height: 11px;
+    background: #FFA600;
+    width: 93%;
+     border-radius: 9px;
+}
+.percentSenvety{
+    font-size: 20px;
+    font-weight: 600;
+    color: #212121;
+    font-family: "poppins",sans-serif;
+}
+
+/* ffq section style end */
+
+
 /* header section style start */
 /* header section style end */
 /* header section style start */
