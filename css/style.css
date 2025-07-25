@@ -949,18 +949,20 @@ p {
     height: 335px;
     margin-top: 25px;
 }
-.tipsRightBottom h5{
+
+.tipsRightBottom h5 {
     background: #B683F5;
     display: inline;
     padding: 5px 10px;
     border-radius: 25px;
-     font-size: 16px;
+    font-size: 16px;
     font-weight: 400;
     font-family: "Poppins", sans-serif;
 
 }
-.tipsRightBottom h4{
-     font-size: 32px;
+
+.tipsRightBottom h4 {
+    font-size: 32px;
     font-weight: 600;
     font-family: "Poppins", sans-serif;
     line-height: 120%;
@@ -969,7 +971,8 @@ p {
     margin-bottom: 22px;
 
 }
-.tipsRightBottom a{
+
+.tipsRightBottom a {
     font-size: 20px;
     font-weight: 600;
     font-family: "Poppins", sans-serif;
@@ -977,62 +980,73 @@ p {
     margin-bottom: 31px;
     margin-top: 35px;
 }
-.tipsRightBottom a i{
+
+.tipsRightBottom a i {
     margin-left: 15px;
     color: #8A38EE;
     background: #fff;
     padding: 6px 8px;
     border-radius: 50%;
 }
-.tipRightBottomR img{
+
+.tipRightBottomR img {
     margin-top: 25px;
     height: 335px;
 }
+
 /* tips section style end */
 
 /* testimonial section style start */
-#testimonialPart{
+#testimonialPart {
     padding: 100px 0;
 }
-.testimonialLeft h5{
+
+.testimonialLeft h5 {
     color: #8A38EE;
     font-size: 20px;
     font-weight: 600;
-     font-family: "Poppins", sans-serif; 
+    font-family: "Poppins", sans-serif;
 }
-.testimonialLeft h3{
+
+.testimonialLeft h3 {
     color: #212121;
     font-size: 48px;
     font-weight: 500;
-     font-family: "Montserrat", sans-serif;
-     margin-top: 30px;
-     line-height: 120%;
-     margin-bottom: 87px;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 30px;
+    line-height: 120%;
+    margin-bottom: 87px;
 }
-.testimonialLeftImg{
+
+.testimonialLeftImg {
     margin-top: 63px;
 }
-.testimonialLeftImg img{
+
+.testimonialLeftImg img {
     margin-right: 15px;
 }
-.testimonialRightFlex{
+
+.testimonialRightFlex {
     display: flex;
 
 }
-.testimonialImgTwo img{
+
+.testimonialImgTwo img {
     width: 310px;
-     background: #F5F5F5;
-     border-bottom-left-radius: 30px;
+    background: #F5F5F5;
+    border-bottom-left-radius: 30px;
     border-top-left-radius: 30px;
 }
-.testimonialRightContent{
+
+.testimonialRightContent {
     background: #F5F5F5;
     border-bottom-right-radius: 30px;
     border-top-right-radius: 30px;
     padding: 0 42px;
-   
+
 }
-.testimonialRightContent img{
+
+.testimonialRightContent img {
     width: 51px;
     height: 51px;
 
@@ -1040,32 +1054,106 @@ p {
     margin-left: 430px;
     margin-bottom: 13px;
 }
-.testimonialRightContent p{
+
+.testimonialRightContent p {
     width: 480px;
     font-size: 20px;
     font-weight: 400;
-     font-family: "Poppins", sans-serif; 
-     color: #5F5270;
-     /* margin-top: 105px; */
-     margin-bottom: 32px;
-     line-height: 120%;
+    font-family: "Poppins", sans-serif;
+    color: #5F5270;
+    /* margin-top: 105px; */
+    margin-bottom: 32px;
+    line-height: 120%;
 }
-.testimonialRightContent h4{
-     font-size: 20px;
+
+.testimonialRightContent h4 {
+    font-size: 20px;
     font-weight: 600;
-     font-family: "Poppins", sans-serif; 
-     color: #212121;
-     margin-bottom: 15px;
+    font-family: "Poppins", sans-serif;
+    color: #212121;
+    margin-bottom: 15px;
 }
-.testimonialRightContent h5{
-     font-size: 16px;
+
+.testimonialRightContent h5 {
+    font-size: 16px;
     font-weight: 400;
-     font-family: "Poppins", sans-serif; 
-     color: #5F5270;
+    font-family: "Poppins", sans-serif;
+    color: #5F5270;
 }
+
 /* testimonial section style end */
 
-/* header section style start */
-/* header section style end */
+/* findJob section style start */
+#findJobPart {
+    padding: 100px 0;
+    background: #F5F5F5;
+}
+
+.findJobLeft h4 {
+    color: #8A38EE;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    padding-top: 153px;
+
+}
+
+.findJobLeft h3 {
+    max-width: 336px;
+    color: #212121;
+    font-size: 48px;
+    font-weight: 600;
+    padding-top: 34px;
+    padding-bottom: 78px;
+    line-height: 120%;
+    font-family: "Montserrat", sans-serif;
+}
+
+.findJobLeft a {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    background: #8A38EE;
+    padding: 15px 20px;
+    border-radius: 30px;
+    
+}
+.findJobLeft a i {
+    padding-left: 15px;
+   
+
+}
+.peopleJ{
+    padding-top: 27px;
+    padding-bottom: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.countP{
+    text-align: center;
+}
+.countP h5{
+    padding-top: 30px;
+      font-size: 40px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+     padding-bottom: 25px;
+}
+.countP h5 span{
+    color: #8A38EE;
+}
+.countP p{
+    color: #5F5270;
+     font-size: 16px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+   
+}
+
+/* findJob section style end */
+
+
 /* header section style start */
 /* header section style end */
