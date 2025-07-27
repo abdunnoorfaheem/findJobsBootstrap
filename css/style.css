@@ -1117,43 +1117,155 @@ p {
     background: #8A38EE;
     padding: 15px 20px;
     border-radius: 30px;
-    
-}
-.findJobLeft a i {
-    padding-left: 15px;
-   
 
 }
-.peopleJ{
+
+.findJobLeft a i {
+    padding-left: 15px;
+
+
+}
+
+.peopleJ {
     padding-top: 27px;
     padding-bottom: 56px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-.countP{
+
+.countP {
     text-align: center;
 }
-.countP h5{
+
+.countP h5 {
     padding-top: 30px;
-      font-size: 40px;
+    font-size: 40px;
     font-weight: 500;
     font-family: "Poppins", sans-serif;
-     padding-bottom: 25px;
+    padding-bottom: 25px;
 }
-.countP h5 span{
+
+.countP h5 span {
     color: #8A38EE;
 }
-.countP p{
+
+.countP p {
     color: #5F5270;
-     font-size: 16px;
+    font-size: 16px;
     font-weight: 400;
     font-family: "Poppins", sans-serif;
-   
+
 }
 
 /* findJob section style end */
 
 
-/* header section style start */
-/* header section style end */
+/* footer section style start */
+#footerPart {
+    padding: 50px 0;
+}
+
+.footerLeftFlex {
+    display: flex;
+    align-items: center;
+}
+
+.fLFSide h4 {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    line-height: 140%;
+    color: #212121;
+    margin: 10px 0;
+
+}
+
+.fLFRSide h4 {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    line-height: 140%;
+    color: #212121;
+
+    margin-left: 45px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.footerRightFlex {
+    display: flex;
+    align-items: center;
+}
+
+.fRLFSide h5 {
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    line-height: 140%;
+    color: #212121;
+}
+
+.fRLFSide h4 {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    line-height: 140%;
+    color: #212121;
+}
+
+.fRRFSide h5 {
+
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    line-height: 140%;
+    color: #212121;
+    margin-left: 75px;
+    margin-top: 20px;
+
+}
+
+.socialTwo h5 {
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    line-height: 140%;
+    color: #212121;
+    margin-top: 90px;
+    margin-bottom: 15px;
+
+}
+
+.msLeft {
+    margin-left: 75px;
+}
+
+.copyText h5 {
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    line-height: 140%;
+    color: #212121;
+}
+
+.languageFlex {
+    display: flex;
+    column-gap: 40px;
+}
+
+.languageFlex h5 {
+    color: #8A38EE;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.andCopy {
+    display: flex;
+    column-gap: 255px;
+}
+
+/* footer section style end */
